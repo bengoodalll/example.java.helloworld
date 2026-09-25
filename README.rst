@@ -28,7 +28,7 @@ For run the main class for package, execute the follow command: ::
 
   java -cp . HelloWorld.Main
 
-This show the ``Hello world`` message.
+This show the ``Hello Lavanya`` message.
 
 Create a JAR file
 -----------------
@@ -45,7 +45,7 @@ For run the JAR file packed, execute the follow command: ::
 
   java -jar Main.jar
 
-This show the ``Hello world`` message.
+This show the ``Hello Lavanya`` message.
 
 Reference
 =========
